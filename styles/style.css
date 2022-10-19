@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+}
+
+.pra-login {
+  height: 100vh;
+  width: 100vw;
+  background-image: url("../src/background.png");
+  background-position: center;
+  background-size: cover;
+}
+
+.tombolsubmit {
+  background-color: #F37920 !important;
+  --bs-primary: #F37920;
+}/*# sourceMappingURL=style.css.map */
